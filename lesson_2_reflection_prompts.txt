@@ -15,10 +15,19 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	If you're wanting to test some changes that may or may not be added to the production version of code.
+
 How do the diagrams help you visualize the branch structure?
+	
+	It's easier to understand the child -> parent relationships using the diagram.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	The changes of both branches and histories are merged together in order of date the changes were made.
+	We represent it in the diagram that way for that reason.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+	
